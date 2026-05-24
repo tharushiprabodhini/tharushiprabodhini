@@ -112,8 +112,8 @@ This project handles colonist registrations, pilot management, trip scheduling, 
 ## Connect With Me
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
+    <!-- <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a> -->
   <a href="mailto:tharushiprabodhini3@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
