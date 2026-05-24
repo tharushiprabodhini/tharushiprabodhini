@@ -1,4 +1,4 @@
-# Hi, I'm Sineth Sandeepa
+# Hi, I'm Tharushi Prabodhini
 
 A passionate Software Engineer focused on building scalable, real-world web applications that solve meaningful problems.
 
