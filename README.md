@@ -112,21 +112,18 @@ This project handles colonist registrations, pilot management, trip scheduling, 
 ## Connect With Me
 
 <p align="left">
-    <!-- <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a> -->
   <a href="mailto:tharushiprabodhini3@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
   <a href="www.linkedin.com/in/tharushi-prabodhini-bb32a72ba" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://github.com/tharushiprabodhini" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br /><br />
-  <a href="https://sinethsandeepa.com/#contact" aria-label="Contact Me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Contact%20Me-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
-  </a>
 </p>
 
 
